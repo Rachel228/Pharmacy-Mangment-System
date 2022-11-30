@@ -20,6 +20,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   </tr>
  </table>
  
+<img src="https://i.ibb.co/W0FKBk1/Screenshot-2020-08-30-at-00-03-31.png" > 
 
 <table>
   <tr>
