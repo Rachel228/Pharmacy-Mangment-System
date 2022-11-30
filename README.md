@@ -35,15 +35,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  
  <table>
   <tr>
-    <td>Point Of Sales</td> 
-  </tr>
-  <tr>
-    <td><img src="https://i.ibb.co/1vCrYKk/Screenshot-2020-08-30-at-00-06-11.png"></td>
-  </tr>
- </table>
- 
- <table>
-  <tr>
     <td>Checking out drugs from Point Of Sales</td> 
   </tr>
   <tr>
