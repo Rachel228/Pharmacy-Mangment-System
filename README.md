@@ -16,7 +16,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   </tr>
   <tr>
     <td><img src="https://i.ibb.co/0BCPCQB/Screenshot-2020-08-30-at-00-02-41.png" width="600"></td>
-    <td><img src="https://i.ibb.co/fv4F5jR/Screenshot-2020-08-30-at-00-02-54.png" width="600"></td>
+    <td><img src="![image](https://user-images.githubusercontent.com/75263925/204805931-7da4e964-50f4-4603-b708-36d5cc9a7499.png)" width="600"></td>
   </tr>
  </table>
  
