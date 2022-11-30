@@ -89,6 +89,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  </table>
 
 
+
 ## 🚀 Build Instructions / How to start the project 
 
 1) Downloard/clone the Contributor branch of the repository
