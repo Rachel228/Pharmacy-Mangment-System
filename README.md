@@ -7,7 +7,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## 🦄 Product Features and Screen Shots
 
 
-
 <table>
   <tr>
     <td>Login</td>
